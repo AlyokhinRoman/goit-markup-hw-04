@@ -491,6 +491,20 @@ button {
     gap: 16px;
     display: flex;
 }
+.team-social{
+    width: 40px;
+    height: 40px;
+}
+.social-link-footer {
+    background-color: #4d5ae5;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
 .media-title {
     font-weight: 500;
     font-size: 16px;
