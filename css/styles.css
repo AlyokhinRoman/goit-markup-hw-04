@@ -481,6 +481,9 @@ button {
     display: flex;
     align-items: baseline;
 }
+.footer-copy {
+    margin-right: 120px;
+}
 .social-footer {
     display: inline-block;
 }
