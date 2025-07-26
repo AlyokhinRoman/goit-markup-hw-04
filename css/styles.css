@@ -331,6 +331,11 @@ button {
 .social-link:focus {
     background-color: #404bbf;
 }
+
+.social-link-footer:hover,
+.social-link-footer:focus {
+    background-color: #31d0aa;
+}
 .team-list {
     display: flex;
     justify-content: center;
