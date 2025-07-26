@@ -477,10 +477,9 @@ button {
     width: 264px;
 }
 
-.footer-container a {
-    display: inline-block;
-    margin-bottom: 16px;
-    justify-content: flex-start;
+.footer-container {
+    display: flex;
+    align-items: baseline;
 }
 .social-footer {
     display: inline-block;
