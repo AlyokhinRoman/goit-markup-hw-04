@@ -343,7 +343,7 @@ button {
 }
 .team-item-info{
     padding: 32px 0;
-    background-color: #ffffff;
+    background-color: #ffffff;    
 }
 .team-item-header {
     font-weight: 500;
@@ -481,4 +481,7 @@ button {
     display: inline-block;
     margin-bottom: 16px;
     justify-content: flex-start;
+}
+.social-footer {
+    display: inline-block;
 }
